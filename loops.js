@@ -13,8 +13,11 @@ console.log("Done Boi!");
 
 
 function loopTwo(number,power){
-let sum=1
-    for()
+    for (let sum=1; sum<100; sum=sum+number){
+
+    }
+for(number=1; number < 100; number=2*number){
+  console.log(sum)}
 }
 
 function loopThree(){
